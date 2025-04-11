@@ -39,8 +39,10 @@ Currently, my research interests are primarily focused on Large Language Models 
 
 ## 📖 Educations
 2023.09 - Present, M.S. in Computer Science, Xiamen University
+
 2019.09 - 2023.06, B.S. in Computer Science, Xiamen University
 
 ## 💻 Internships Experiences
 2025.01 - Present, Machine Intelligence Department, Ant Group, Research Intern
+
 2023.09 - 2024.12, Microsoft Research Asia, Research Assistant
