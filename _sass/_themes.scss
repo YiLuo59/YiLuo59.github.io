@@ -52,8 +52,8 @@ $caption-font-family        : $serif;
 $small                      : 600px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
-$large                      : 925px !default;
-$x-large                    : 1280px !default;
+$large                      : 1024px !default;
+$x-large                    : 1400px !default;
 
 /* ==========================================================================
    Grid
@@ -65,12 +65,12 @@ $right-sidebar-width-wide   : 40px !default;
 
 $susy: (
     columns: 12,
-    column-width: 120px,
+    column-width: 140px,
     gutters: 1/4,
     math: fluid,
     output: float,
     gutter-position: after,
-    container: $large,
+    container: $x-large,
     global-box-sizing: border-box,
 );
 
