@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in the second year of my Master's degree from [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/). I am advised by Prof. Chen Lin of [Data Mining Group](https://xmudm.github.io/), XMU. I received the B.Eng degree from the School of Informatics, Xiamen University in 2023.
+I am currently in the second year of my Master's degree from [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/). I am advised by Prof. [Chen Lin](https://scholar.google.com/citations?user=z1l2JSMAAAAJ) of [Data Mining Group](https://xmudm.github.io/), XMU. I received the B.Eng degree from the School of Informatics, Xiamen University in 2023.
 
 ## 🧐 Research Interests
 
