@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Yi Luo"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yi Luo"
+description              : &An Academic Website of Yi Luo"
 url                      : https://YiLuo59.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YiLuo59/YiLuo59.github.io"
@@ -134,7 +134,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
