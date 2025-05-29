@@ -56,8 +56,7 @@ author_profile: true
 }
 </style>
 
-## 2024
-
+## 2025 
 ### BioResearcher: 自动化生物医学研究系统
 <div class="publication-item">
 <h2><a href="https://arxiv.org/abs/2412.09429">From intention to implementation: Automating biomedical research via llms</a></h2>
@@ -87,6 +86,8 @@ We design a comprehensive evaluation benchmark for database QA and a LLM-based d
     <img src="/images/placeholder2.jpg" alt="Workflow Image" style="max-width: 100%; height: auto;">
 </div> -->
 </div>
+
+## 2024
 
 ### Guide-Align: 基于指南库的安全输出
 <div class="publication-item">
