@@ -27,9 +27,9 @@ Currently, my research interests are primarily focused on Large Language Models 
 
 ## 🔥 News
 
-2025.05: 🎉🎉 One paper ([BioResearcher](https://arxiv.org/abs/2412.09429) is accepted by SCIENCE CHINA Information Sciences!
+2025.05: 🎉🎉 One paper ([BioResearcher](https://arxiv.org/abs/2412.09429)) is accepted by SCIENCE CHINA Information Sciences!
 
-2025.05: 🎉🎉 One paper ([BDQABench & DQATestbed](https://arxiv.org/abs/2409.04475) is accepted by KDD 2025!
+2025.05: 🎉🎉 One paper ([BDQABench & DQATestbed](https://arxiv.org/abs/2409.04475)) is accepted by KDD 2025!
 
 2024.03: 🎉🎉 Two papers ([Guide-Align](https://arxiv.org/pdf/2403.11838.pdf), [Iter-CoT](https://arxiv.org/abs/2304.11657)) are accepted by NAACL 2024!
 
