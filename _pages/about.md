@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am currently in the second year of my Master's degree from [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/). I am advised by Prof. [Chen Lin](https://scholar.google.com/citations?user=z1l2JSMAAAAJ) of [Data Mining Group](https://xmudm.github.io/), XMU. I received a B.E. in Artificial Intelligence from the School of Informatics, Xiamen University in 2023.
+**🎓📩I’m actively seeking Ph.D. position in 2026 Fall! I would be sincerely grateful for any opportunities or connections.**
 
 ## 🧐 Research Interests
 
