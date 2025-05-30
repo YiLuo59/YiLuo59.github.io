@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Yi Luo (罗懿)"
 author_profile: true
 redirect_from: 
   - /about/
