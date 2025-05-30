@@ -35,9 +35,10 @@ Currently, my research interests are primarily focused on Large Language Models 
 
 ## 📝 Publications
 
-[Under Review] [Generalized Category Discovery in Event-Centric Contexts: Latent Pattern Mining with LLMs](https://arxiv.org/abs/2505.23304), **Yi Luo**<sup>*</sup>, Qiwen Wang*, Junqi Yang, Luyao Tang, Zhenghao Lin, Zhenzhe Ying, Weiqiang Wang, Chen Lin
+[Under Review] [Generalized Category Discovery in Event-Centric Contexts: Latent Pattern Mining with LLMs](https://arxiv.org/abs/2505.23304), 
+**Yi Luo**\*, Qiwen Wang\*, Junqi Yang, Luyao Tang, Zhenghao Lin, Zhenzhe Ying, Weiqiang Wang, Chen Lin
 
-[Under Review] [HiCaM: A Hierarchical-Causal Modification Framework for Long-Form Text Modification], Yuntao Shi, **Yi Luo**, Yeyun Gong, Chen Lin
+[Under Review] HiCaM: A Hierarchical-Causal Modification Framework for Long-Form Text Modification, Yuntao Shi, **Yi Luo**, Yeyun Gong, Chen Lin
 
 [SCIENCE CHINA Information Sciences] [From intention to implementation: Automating biomedical research via llms](https://arxiv.org/abs/2412.09429), **Yi Luo**, Linghang Shi, Yihao Li, Aobo Zhuang, Yeyun Gong, Ling Liu, Chen Lin
 
@@ -45,7 +46,7 @@ Currently, my research interests are primarily focused on Large Language Models 
 
 [NAACL 2024] [Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models](https://arxiv.org/abs/2403.11838), **Yi Luo**, Zhenghao Lin, Yuhao Zhang, Jiashuo Sun, Chen Lin, Chengjin Xu, Xiangdong Su, Yelong Shen, Jian Guo, Yeyun Gong.
 
-[NAACL 2024 Findings] [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/abs/2304.11657), Jiashuo Sun*, **Yi Luo**<sup>*</sup>, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan.
+[NAACL 2024 Findings] [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/abs/2304.11657), Jiashuo Sun*, **Yi Luo**\*, Yeyun Gong, Chen Lin, Yelong Shen, Jian Guo, Nan Duan.
 
 ## 📖 Educations
 2023.09 - Present, M.S. in Computer Science, Xiamen University
