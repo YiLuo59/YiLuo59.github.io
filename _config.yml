@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yi Luo"
+title                    : "Yi Luo (罗懿)"
 title_separator          : "-"
-name                     : &name "Yi Luo"
+name                     : &name "Yi Luo (罗懿)"
 description              : &An Academic Website of Yi Luo"
 url                      : https://YiLuo59.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "YiLuo59/YiLuo59.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yi Luo"
+  name             : "Yi Luo (罗懿)"
   pronouns         : # example: "she/her"  
   bio              : |
     Master's students, 
