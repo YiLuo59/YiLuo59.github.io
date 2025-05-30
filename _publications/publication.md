@@ -61,7 +61,7 @@ author_profile: true
 <div class="publication-item">
 <h2><a href="https://arxiv.org/abs/2412.09429">From intention to implementation: Automating biomedical research via llms</a></h2>
 <div class="authors"><b>Yi Luo</b>, Linghang Shi, Yihao Li, Aobo Zhuang, Yeyun Gong, Ling Liu, Chen Lin</div>
-<div class="submission">Submission to SCIENCE CHINA Information Sciences</div>
+<div class="submission">SCIENCE CHINA Information Sciences</div>
 
 <div class="abstract">
 We develop BioResearcher, an end-to-end automated biomedical research system. The system adopts a modular design and hierarchical learning approach to automate the entire research workflow. Given a research objective, BioResearcher autonomously executes a series of research processes, including literature and dataset retrieval, extraction and analysis of relevant experimental reports, as well as experimental design and programming implementation.
@@ -76,7 +76,7 @@ We develop BioResearcher, an end-to-end automated biomedical research system. Th
 <div class="publication-item">
 <h2><a href="https://arxiv.org/abs/2409.04475">Revolutionizing Database Q&A with Large Language Models</a></h2>
 <div class="authors">Yihang Zheng, Bo Li, Zhenghao Lin, <b>Yi Luo</b>, Xuanhe Zhou, Chen Lin, Jinsong Su, Guoliang Li, Shifu Li</div>
-<div class="submission">Submission to KDD 2025 Datasets and Benchmarks Track</div>
+<div class="submission">KDD 2025</div>
 
 <div class="abstract">
 We design a comprehensive evaluation benchmark for database QA and a LLM-based database QA system. The benchmark includes a dataset, a GPT-4-based benchmark construction method, and an evaluation framework designed to assess LLMs' expertise, retrieval capabilities, and tool utilization skills in the database domain. The complete QA system consists of: a) a carefully pre-trained and fine-tuned LLM, b) a question classification routing module, c) a prompt template engineering (PTE) module, d) a retrieval-augmented generation (RAG) module, and e) a tool invocation module. The benchmark thoroughly quantifies the database QA capabilities of nine different LLMs in both Chinese and English. The full QA system enhances the overall performance of a 13B-parameter LLM by 44% in database QA tasks, achieving close or even superior performance to advanced models like GPT-4 in certain domains.
