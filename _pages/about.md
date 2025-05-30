@@ -18,8 +18,6 @@ Currently, my research interests are primarily focused on Large Language Models 
 
 - **LLM Security:** Developing robust defense mechanisms against adversarial attacks, data poisoning, and jailbreaking threats while maintaining model utility.
 
-- **Generalized Category Discovery**: Enabling small models to recognize novel classes in open-world scenarios using LLM-generated pseudo-labels, cross-modal distillation, and semantic space alignment techniques.
-
 - **LLMs' Reasoning Capabilities**: Enhancing the reasoning capabilities of large language models (LLMs) with a focus on: rule summarization, mathematical reasoning and long-context logical reasoning.
 
 🤝 Looking for collaboration! If you are interested in working with me, please drop me an email.
